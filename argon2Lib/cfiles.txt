@@ -1,0 +1,8 @@
+rm ./Argon2/argon2-core.c
+rm ./Argon2/argon2-opt-core.c
+rm ./Argon2/argon2-ref-core.c
+rm ./Argon2/argon2.c
+rm ./Argon2/kat.c
+rm ./Blake2/blake2b-ref.c
+rm ./Blake2/blake2b.c
+rm ./Test/argon2-test.c
